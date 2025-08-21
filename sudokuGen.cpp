@@ -1,7 +1,7 @@
 #include "sudokuGen.hpp"
 using namespace std;
 
-//Generador de Sudokus
+//Generador de Sudokus, prueba en git
 // START: Get grid as string in row major order
 string Sudoku::getGrid()
 {
